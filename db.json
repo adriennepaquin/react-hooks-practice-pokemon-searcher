@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "CLAUDIA",
+      "hp": 1004,
+      "sprites": {
+        "front": "la",
+        "back": "la"
+      },
+      "id": 151
+    },
+    {
+      "name": "I LOVE YOU CLUADIA",
+      "hp": 45,
+      "sprites": {
+        "front": "la",
+        "back": "la"
+      },
+      "id": 152
+    },
+    {
+      "name": "Claudia",
+      "hp": 96,
+      "sprites": {
+        "front": "https://files.slack.com/files-pri/T02MD9XTF-F025QFBD1MW/img_20210613_201152.jpg",
+        "back": "https://files.slack.com/files-pri/T02MD9XTF-F025QFBD1MW/img_20210613_201152.jpg"
+      },
+      "id": 153
     }
   ]
 }
